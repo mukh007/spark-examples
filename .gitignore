@@ -1,4 +1,13 @@
 *.class
+.cache
+.classpath
+.project
+.settings/
+derby.log
+log-cleaner.log
+metastore_db/
+*~
+
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
